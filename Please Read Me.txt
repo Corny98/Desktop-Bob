@@ -1,0 +1,19 @@
+This simple desktop guy is really easy to use! He can jump onto window tabs and, he plays a sound every tick! (20% chance every 10 seconds.)
+There is credits for the image at the corner of that png!
+You have to open the main File for this to work!
+/-----------------------------------------------/
+
+to install the programs,
+head to https://www.python.org/downloads/.
+
+then, go to terminal, (if you don't have it, go to Microsoft store and get it!)
+type pip install pygame, pip install pygetwindow, install pip Pillow.
+Let me know if this works.
+How to close? close the terminal it opens.
+Theres no terminal! reboot the computer!
+/-----------------------------------------/
+thank you for installing this desktop pet!
+(demo)
+(i am not responsible for any damage to your computer, that was you.)
+Kindest Regards
+-CR
